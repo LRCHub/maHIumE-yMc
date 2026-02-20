@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "一生不幸でかまわない",
+  "base_artist": "Mafumafu",
+  "createdAt": "2026-02-20T16:40:54.803671Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一生不幸でかまわない",
+      "artist": "まふまふ",
+      "has_synced": true,
+      "path": "select/01_一生不幸でかまわない_まふまふ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一生不幸でかまわない",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_一生不幸でかまわない_まふまふ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "一生不幸でかまわない",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_02_一生不幸でかまわない_まふまふ.txt"
+    }
+  ]
+}
